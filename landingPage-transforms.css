@@ -1,0 +1,8 @@
+.li{
+    background:black;
+    padding: .2rem .6rem .3rem;
+    font-size: 100px;
+    color: white;
+}
+li:hover{
+    transform:scale(1.2);}
