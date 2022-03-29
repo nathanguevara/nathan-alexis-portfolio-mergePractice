@@ -1,0 +1,6 @@
+ul.clearfix:hover {
+    background-color: black;
+    color: white;
+    transform: scale(2);
+    transition: transform 0.5s ease;
+}
